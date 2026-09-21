@@ -5,14 +5,14 @@ I like to learn coding in *Python*, *C*, *Cpp*, *JAVA* etc
 My background in intermediate was of *Computer Science*(CS).
 
 **Hobbies**
-1.Programming
-2.Reading
-3.Gaming
+1. Programming
+2. Reading
+3. Gaming
 
 **Sports**
--Cricket
--Football
--Badminton
--Gym
+- Cricket
+- Football
+- Badminton
+- Gym
 
 
